@@ -54,6 +54,11 @@ A **Plataforma de Reciclagem Sustentável** é uma solução inovadora que visa 
 - **Endereço IP Público**: 191.239.117.242
 - **Rede Virtual/Sub-rede**: vm-windows-dev-gs-marine-vnet/default
 
+### Arquitetura Devops
+<img width="1177" alt="Screenshot 2024-06-07 at 02 13 18" src="https://github.com/Viannaana/Global-Solution---DevOps/assets/145307161/7b2bc11d-1b91-4f9f-907e-4a2d22db8644">
+
+
+
 ## Membros do Grupo
 
 - **Alysson Alves Pinheiro** | 2TDSA | RM 552410  
